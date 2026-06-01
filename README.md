@@ -27,10 +27,10 @@ restaurant-website/<br>
 
 ⚙️ Installation & Setup:<br>
 Clone the repository:<br>
-git clone https://github.com/your-username/restaurant-website.git
-Navigate to the project folder:
-cd restaurant-website
-Open index.html in your browser
+git clone https://github.com/Ankitmaurya30/Restaurant-Website<br>
+Navigate to the project folder:<br>
+cd restaurant-website<br>
+Open index.html in your browser<br>
 OR run using Live Server (VS Code recommended)
 
 💻 Live Demo:<br>
