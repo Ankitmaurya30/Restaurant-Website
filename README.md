@@ -2,56 +2,53 @@
 
 A modern Restaurant Website built using HTML, CSS. This project showcases an attractive UI for restaurants including menu display, online reservation, and contact features.
 
-🚀 Features
-🏠 Home page with hero section
-📖 Menu section (Food & Drinks)
-🧾 About Us section
+🚀 Features:<br>
+🏠 Home page with hero section<br>
+📖 Menu section (Food & Drinks)<br>
+🧾 About Us section<br>
 📞 Contact page with form
 
-🛠️ Tech Stack
-Frontend: HTML5, CSS3
-Styling: CSS
+🛠️ Tech Stack:<br>
+Frontend: HTML5, CSS3<br>
+Styling: CSS<br>
 Version Control: Git & GitHub
 
-📂 Folder Structure
-restaurant-website/
-│── index.html
-│── about.html
-│── menu.html
-│── contact.html
-│── css/
-│   └── style.css
-│── images/
-│── assets/
+📂 Folder Structure:<br>
+restaurant-website/<br>
+│── index.html<br>
+│── about.html<br>
+│── menu.html<br>
+│── contact.html<br>
+│── css/<br>
+│   └── style.css<br>
+│── images/<br>
+│── assets/<br>
 └── README.md
 
-⚙️ Installation & Setup
-Clone the repository:
+⚙️ Installation & Setup:<br>
+Clone the repository:<br>
 git clone https://github.com/your-username/restaurant-website.git
 Navigate to the project folder:
 cd restaurant-website
 Open index.html in your browser
 OR run using Live Server (VS Code recommended)
-💻 Live Demo
 
-👉 Add your deployed link here
-Example:
+💻 Live Demo:<br>
+👉 Add your deployed link here: https://your-restaurant-site.netlify.app
 
-https://your-restaurant-site.netlify.app
-📸 Screenshots
-
+📸 Screenshots:<br>
 (Add screenshots of your project UI here)
 
-📌 Future Improvements
-🛒 Online food ordering system
-💳 Payment integration
-🔐 User authentication
+📌 Future Improvements:<br>
+🛒 Online food ordering system<br>
+💳 Payment integration<br>
+🔐 User authentication<br>
 📊 Admin dashboard for managing menu
 
-🤝 Contributing
-Contributions are welcome!
+🤝 Contributing:<br>
+Contributions are welcome.<br>
 Feel free to fork this repo and submit a pull request.
 
-📄 License
+📄 License:<br>
 This project is licensed under the MIT License.
 
